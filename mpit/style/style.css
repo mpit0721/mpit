@@ -1,0 +1,182 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    position: relative;
+    width: 1920px;
+    margin: 0 auto;
+}
+.menu
+{
+height: 500px;
+width: 1920px;
+background: url('../materials/fon.png');
+background-size: 100%;
+background-repeat:no-repeat;
+}
+.menu .menu_onas /*кнопка*/
+{
+    display: block;
+    margin: 0px left;
+    margin-top: 100px;
+    width: 250px;
+    height: 40px;
+    background: #ffffff;
+    color: #000000;
+    font-family: "Roboto Condensed";
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none; 
+}
+.menu .menu_vopros /*кнопка*/
+{
+    display: block;
+    margin: 0px left;
+    margin-top: 10px;
+    width: 250px;
+    height: 40px;
+    background: #ffffff;
+    color: #000000;
+    font-family: "Roboto Condensed";
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none; 
+}
+.menu .menu_bot /*кнопка*/
+{
+    display: block;
+    margin: 0px left;
+    margin-top: 10px;
+    width: 250px;
+    height: 40px;
+    background: #ffffff;
+    color: #000000;
+    font-family: "Roboto Condensed";
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none; 
+}
+.menu .menu_header 
+{
+font-size: large;
+font-size: 40px;   
+text-align: center;
+color: black;
+}
+.menu .menu_header1
+{
+font-size: large;
+font-size: 40px;   
+text-align: center;
+color: blue;
+}
+.menu .menu_logo
+{
+    width: 100px;
+    height: 60px;
+}
+/* onas */
+.onas
+{
+height: 500px;
+width: 1920px;
+background: url('../materials/fon2.png');
+background-size: 100%;
+background-repeat:no-repeat;
+}
+.onas .onas_header
+{
+    font-size: large;
+    font-size: 40px;   
+    text-align: center;
+    color: black;
+    padding-top: 100px;
+}
+.onas .onas_header1
+{
+    font-size: large;
+    font-size: 40px;   
+    text-align: center;
+    color: blue;
+    }
+/* vopros */
+.vopros .vopros_header
+{
+    font-size: large;
+    font-size: 40px;   
+    text-align: center;
+    color: black;
+   
+    }
+.vopros .vopros_header1
+{
+    font-size: large;
+    font-size: 40px;   
+    text-align: center;
+    color: blue;
+    }
+.vopros .vopros_chasto
+{
+    display: block;
+    margin: 0px auto;
+    margin-top: 20px;
+    width: 500px;
+    height: 75px;
+    background: #FF8B49;
+    color: #ffffff;
+    font-family: "Roboto Condensed";
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none;
+
+
+}
+.vopros .vopros_instruk
+{
+    display: block;
+    margin: 0px auto;
+    margin-top: 20px;
+    width: 500px;
+    height: 75px;
+    background: #FF8B49;
+    color: #ffffff;
+    font-family: "Roboto Condensed";
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none;
+}
+.vopros .vopros_bot
+{
+    display: block;
+    margin: 0px auto;
+    margin-top: 20px;
+    width: 500px;
+    height: 75px;
+    background: #FF8B49;
+    color: #ffffff;
+    font-family: "Roboto Condensed";
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none;
+}
+  
